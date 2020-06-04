@@ -1,0 +1,4 @@
+ID, Name, URL, Feedname
+01, CTV News, https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009, ctvnews.xml
+02, CBC Top Stories, https://www.cbc.ca/cmlink/rss-topstories, cbctop.xml
+03, CBC Sports, https://www.cbc.ca/cmlink/rss-sports, cbcsports.xml
